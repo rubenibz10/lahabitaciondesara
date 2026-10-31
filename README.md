@@ -1,2 +1,2 @@
-# La-habitaci-n-de-sara
+# La habitación de sara
 habitación interactiva 
